@@ -1,0 +1,11 @@
+#new-btn {
+    background-color:rgb(118, 118, 118);
+    position: absolute;
+    top: 255px;
+    left: 755px;
+    width: 127px;
+    opacity: 0;
+    height: 36px;
+    z-index: 1;
+    
+}
